@@ -49,4 +49,5 @@ COPY --from=builder --chown=app:app /app /app
 ENV PATH="/app/.venv/bin:$PATH"
 ENV PYTHONPATH=/app
 
-ENTRYPOINT ["mcp_sticky"]
+# Runs the script (taken from 'pyproject.toml' build section)
+ENTRYPOINT ["mcp-sticky"]
