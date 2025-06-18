@@ -49,6 +49,10 @@ Installation using uvx.
   }
 }
 ```
+## Security audits
+MseeP does security audits on every MCP server, you can see the security audit of this MCP server by clicking [here](https://mseep.ai/app/nkapila6-mcp-meme-sticky).
+
+<a href='https://mseep.ai/app/nkapila6-mcp-meme-sticky'><img src='https://mseep.net/pr/nkapila6-mcp-meme-sticky-badge.png' width='auto' height='200'></a>
 
 ## MCP Host
 Should work with any MCP client that supports tool calling.
